@@ -1,0 +1,20 @@
+{
+    "ok": "Valider",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "reinit": "Réinitialiser",
+    "import": "Importer",
+    "settings": "Paramètres",
+    "crud": {
+        "add": "Ajouter",
+        "modify": "Modifier",
+        "delete": "Supprimer"
+    },
+    "date": {
+        "period": "Du {startDate} au {endDate}"
+    },
+    "colorPicker": {
+        "presetColors": "Couleurs prédéfinies",
+        "presetColorsEmpty": "Aucune couleur prédéfinie"
+    }
+}

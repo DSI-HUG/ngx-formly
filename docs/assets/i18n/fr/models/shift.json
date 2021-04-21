@@ -1,0 +1,22 @@
+{
+    "title": "Code horaire",
+    "rgbBackgroundColor": "Couleur du fond",
+    "rgbTextColor": "Couleur du texte",
+    "code": "Code",
+    "description": "Description",
+    "startTime": "Début",
+    "endTime": "Fin",
+    "nbMinutesBreakDuration": "Pause",
+    "nbHoursShiftDuration": "Durée",
+    "shiftType": {
+        "label": "Type",
+        "morning": "Matin",
+        "day": "Jour",
+        "evening": "Soir",
+        "night": "Nuit",
+        "onCallDuty": "Piquet"
+    },
+    "eventShits": {
+        "import": "Importer un évènement"
+    }
+}
