@@ -1,0 +1,56 @@
+[
+    {
+        "id": 903,
+        "name": "Toys",
+        "eso": "EXY315",
+        "planners": [
+            "Ahmed Steuber",
+            "Lola Hahn"
+        ]
+    },
+    {
+        "id": 13105,
+        "name": "Baby",
+        "eso": "EXY817",
+        "planners": [
+            "Alexandrine Franecki",
+            "Mylene Bruen"
+        ]
+    },
+    {
+        "id": 52451,
+        "name": "Beauty",
+        "eso": "EXY642",
+        "planners": [
+            "Leonora Rippin",
+            "Kiley Eichmann"
+        ]
+    },
+    {
+        "id": 95201,
+        "name": "Clothing",
+        "eso": "EXY716",
+        "planners": [
+            "Verlie Padberg",
+            "Rowan Hagenes"
+        ]
+    },
+    {
+        "id": 47674,
+        "name": "Home",
+        "eso": "EXY007",
+        "planners": [
+            "Isidro Sporer",
+            "Trever Breitenberg"
+        ]
+    },
+    {
+        "id": 24061,
+        "name": "Garden",
+        "eso": "EXY790",
+        "planners": [
+            "Lilyan McLaughlin",
+            "Jake Botsford"
+        ]
+    }
+]

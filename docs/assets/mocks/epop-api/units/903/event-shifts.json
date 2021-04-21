@@ -1,0 +1,16 @@
+[
+    {
+        "code": "RE",
+        "rgbTextColor": "#2E61E3",
+        "description": "Récupération",
+        "id": 0,
+        "notRemovable": true
+    },
+    {
+        "code": "CH",
+        "rgbTextColor": "#C54138",
+        "description": "Congés",
+        "id": 1,
+        "notRemovable": true
+    }
+]
