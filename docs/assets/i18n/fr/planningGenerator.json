@@ -46,6 +46,15 @@
                     "hours": "Solde horaire"
                 }
             }
+        },
+        "planningGeneratorDialog": {
+            "title": "Simuler le planning",
+            "period": "Période de simulation",
+            "start": "Début",
+            "end": "Fin",
+            "simulate": "Simuler",
+            "cancel": "Annuler",
+            "alreadyPlanned": "Prendre en compte les éléments déjà planifiés"
         }
     },
     "units": {
