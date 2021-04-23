@@ -1,13 +1,16 @@
 {
-    "title": "Planning en préparation",
+    "title": "Planning : {{ unitName }}",
+    "teamList": "Equipe {{ unitName }}",
     "messages": {
         "error": "Erreur lors de la récupération du planning. Veuillez réessayer."
     },
     "planning": {
         "model": {
             "planningType": {
-                "planned": "Planning planifié",
+                "planned": "Planning publié",
                 "onPreparation": "Planning en préparation",
+                "showPlanned": "Voir le planning publié",
+                "showOnPreparation": "Voir le planning en préparation",
                 "macroPlanning": "Macro-planning",
                 "periodicPlanning": "Plan périodique"
             },
@@ -26,7 +29,9 @@
             "freeze": "Figer",
             "unfreeze": "Défiger",
             "desire": "Définir en tant que désir",
-            "undesire": "Annuler le désir"
+            "undesire": "Annuler le désir",
+            "prioritize": "Définir en tant que priorité",
+            "unprioritize": "Annuler la priorité"
         },
         "affectations": {
             "noAffectation": "Aucune affectation",

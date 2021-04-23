@@ -302,15 +302,15 @@
         }
     ],
     "unit": {
-        "id": 903,
-        "name": "Home",
-        "eso": "EXY933",
+        "id": 2456,
+        "name": "Stérilisation centrale",
+        "eso": "U45933",
         "planners": [
-            "Lavinia Rau",
+            "Christine Nader",
             "Tanya Schmeler"
         ]
     },
-    "id": 903,
+    "id": 2456,
     "plannedPlanning": 122,
     "onPreparationPlanning": 123,
     "generatedPlanning": 124

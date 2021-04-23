@@ -19,7 +19,7 @@
                 "lastName": "Nom",
                 "firstName": "Prénom",
                 "gender": "Genre",
-                "service": "Service",
+                "service": "Département",
                 "jobTitle": "Poste",
                 "rate": "Taux horaire",
                 "skill": "Compétences"
