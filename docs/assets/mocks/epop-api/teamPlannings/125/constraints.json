@@ -30,7 +30,7 @@
     {
         "id": 11,
         "label": "Durée de travail",
-        "description": "Pour tous les collaborateurs (hors Médecins lissés) la semaine est de {nbOfDays} jours. Elle commence le lundi et se termine le dimanche. La durée de travail hebdomadaire est de {weekHours}h\t",
+        "description": "Pour tous les collaborateurs (hors Médecins lissés) la semaine est de {nbOfDays} jours. Elle commence le lundi et se termine le dimanche. La durée de travail hebdomadaire est de {weekHours}h.",
         "category": 2,
         "isEnable": true,
         "params": {
@@ -77,6 +77,12 @@
         "id": 18,
         "description": "Intégration des informations du Macro-planning / Insertion des vacances planifiées annuelles\t",
         "category": 4,
+        "isEnable": true
+    },
+    {
+        "id": 19,
+        "description": "Modèles horaires",
+        "category": 5,
         "isEnable": true
     },
     {

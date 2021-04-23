@@ -8,6 +8,7 @@
         "model": {
             "planningType": {
                 "planned": "Planning publié",
+                "generated":  "Planning en préparation",
                 "onPreparation": "Planning en préparation",
                 "showPlanned": "Voir le planning publié",
                 "showOnPreparation": "Voir le planning en préparation",

@@ -17,6 +17,7 @@
         "onCallDuty": "Piquet"
     },
     "eventShits": {
-        "import": "Importer un évènement"
+        "import": "Importer un évènement",
+        "search": "Rechercher un évènement"
     }
 }

@@ -13,10 +13,10 @@
         "7": {"shortCode": "PP", "color": "#00B2E3"}
     },
     "jobTitle": {
-        "1": "Medecin",
-        "2": "Infirmier",
-        "3": "Radiologiste",
-        "4": "Chef de service"
+        "1": "Régulateur sanitaire",
+        "2": "Gestionnaire de transferts",
+        "3": "Régulateur sanitaire",
+        "4": "Gestionnaire de transferts"
     },
     "serviceTitle": {
         "1": "Département d'exploitation",
@@ -27,16 +27,16 @@
         "6": "Département d'exploitation"
     },
     "service": {
-        "1": "Exploitation",
-        "2": "Exploitation",
-        "3": "Exploitation",
-        "4": "Exploitation",
-        "5": "Exploitation",
-        "6": "Exploitation"
+        "1": "Département d'exploitation",
+        "2": "Département d'exploitation",
+        "3": "Département d'exploitation",
+        "4": "Département d'exploitation",
+        "5": "Département d'exploitation",
+        "6": "Département d'exploitation"
     },
     "skill": {
         "1": "Régulateur sanitaire",
-        "2": "Gestionnaire de transferts",
+        "2": "Régulateur sanitaire",
         "3": "Régulateur sanitaire"
     }
 }

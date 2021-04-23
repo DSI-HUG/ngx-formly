@@ -8,6 +8,7 @@
     },
     "details": {
         "title": "Détails de l'équipe",
+        "titleWithName": "Détails de l'équipe : {name}",
         "informations": {
             "title": "Informations"
         },
@@ -20,7 +21,7 @@
                 "firstName": "Prénom",
                 "gender": "Genre",
                 "service": "Département",
-                "jobTitle": "Poste",
+                "jobTitle": "Fonction",
                 "rate": "Taux horaire",
                 "skill": "Compétences"
             }
