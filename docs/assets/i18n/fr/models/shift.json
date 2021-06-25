@@ -3,10 +3,14 @@
     "rgbBackgroundColor": "Couleur du fond",
     "rgbTextColor": "Couleur du texte",
     "code": "Code",
+    "date": "Date",
     "description": "Description",
     "startTime": "Début",
     "endTime": "Fin",
+    "period": "De {{ startTime }} à {{ endTime }}",
+    "hours": "Horaire de travail",
     "nbMinutesBreakDuration": "Pause",
+    "breakDurationLongLabel": "Temps de pause",
     "nbHoursShiftDuration": "Durée",
     "shiftType": {
         "label": "Type",
@@ -19,5 +23,10 @@
     "eventShits": {
         "import": "Importer un évènement",
         "search": "Rechercher un évènement"
+    },
+    "status": {
+        "desired": "En désir",
+        "frozen": "Figé",
+        "priority": "En désir prioritaire"
     }
 }

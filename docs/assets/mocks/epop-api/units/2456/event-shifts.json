@@ -14,19 +14,19 @@
         "notRemovable": true
     },
     {
-        "code": "1",
+        "code": "01",
         "rgbTextColor": "#8a2be2",
         "description": "Vacances",
         "id": 1
     },
     {
-        "code": "2",
+        "code": "02",
         "rgbTextColor": "#d2691f",
         "description": "Maladie",
         "id": 2
     },
     {
-        "code": "5",
+        "code": "05",
         "rgbTextColor": "#fb7f50",
         "description": "Accident non professionnel",
         "id": 5

@@ -10,13 +10,13 @@
 }
 
 @font-face {
-    font-family: 'Cooper Hewitt';
+    font-family: 'Cooper Hewitt Book';
     src: url('CooperHewitt-Book.eot');
     src: url('CooperHewitt-Book.eot?#iefix') format('embedded-opentype'),
         url('CooperHewitt-Book.woff2') format('woff2'),
         url('CooperHewitt-Book.woff') format('woff'),
         url('CooperHewitt-Book.ttf') format('truetype');
-    font-weight: 900;
+    font-weight: 300;
     font-style: normal;
 }
 
@@ -65,13 +65,13 @@
 }
 
 @font-face {
-    font-family: 'Cooper Hewitt';
+    font-family: 'Cooper Hewitt Book';
     src: url('CooperHewitt-BookItalic.eot');
     src: url('CooperHewitt-BookItalic.eot?#iefix') format('embedded-opentype'),
         url('CooperHewitt-BookItalic.woff2') format('woff2'),
         url('CooperHewitt-BookItalic.woff') format('woff'),
         url('CooperHewitt-BookItalic.ttf') format('truetype');
-    font-weight: 900;
+    font-weight: 300;
     font-style: italic;
 }
 

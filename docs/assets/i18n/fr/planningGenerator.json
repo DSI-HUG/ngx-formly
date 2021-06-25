@@ -1,8 +1,26 @@
 {
     "title": "Planning : {{ unitName }}",
-    "teamList": "Equipe {{ unitName }}",
     "messages": {
         "error": "Erreur lors de la récupération du planning. Veuillez réessayer."
+    },
+    "teamList": {
+        "title": "Equipe {{ unitName }}",
+        "parameters": {
+            "title": "Paramètre d'affichage",
+            "zoomMode": {
+                "title": "Taille de la grille",
+                "normal": "Normale",
+                "compacted": "Compacte",
+                "ultraCompact": "Ultra compacte"
+            },
+            "sorting": {
+                "title": "Tri de l'équipe",
+                "byFirstName": "Par prénom",
+                "byLastName": "Par nom",
+                "byFunction": "Par fonction",
+                "byDefault": "Par défaut"
+            }
+        }
     },
     "planning": {
         "model": {
@@ -25,6 +43,16 @@
             "constraint": {
                 "title": "Contraintes",
                 "search": "Rechercher une contrainte" 
+            },
+            "visualization": {
+                "modes": {
+                    "normal": "Normale",
+                    "compacted": "Compacte",
+                    "week": "1 semaine",
+                    "2weeks": "2 semaines",
+                    "3weeks": "3 semaines",
+                    "4weeks": "4 semaines"
+                }
             }
         },
         "cellActions": {
@@ -47,6 +75,8 @@
                 "hours": "Horaires",
                 "eventHours": "Code événement",
                 "workHours": "Code horaire",
+                "eventHoursWithCode": "Code événement {{ code }}",
+                "workHoursWithCode": "Code horaire {{ code }}",
                 "quotaConstrainst": "Ressources requises",
                 "counters": {
                     "label": "Compteurs",
@@ -67,6 +97,18 @@
             "title": "Modifier la période",
             "start": "Date de début",
             "end": "Date de fin"
+        }
+    },
+    "requirements": {
+        "edit": {
+            "title": "Modifier le besoin en resources",
+            "titleNew": "Créer un besoin en resources",
+            "intro": "J'ai besoin d'un collaborateur :",
+            "shifts": "Faisant l'horaire",
+            "jobTitles": "Ayant la fonction SEF",
+            "requirements": {
+                "define": "Définir les besoins en resources"
+            }
         }
     },
     "units": {

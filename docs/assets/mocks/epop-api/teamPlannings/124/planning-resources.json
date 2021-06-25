@@ -7,7 +7,7 @@
         "workingPercentage": 100,
         "service": 2,
         "avatarUrl": "https://i.pravatar.cc/150?img=58",
-        "jobTitle": "1"
+        "jobTitle": 1
     },
     {
         "visa": "BOU",
@@ -17,7 +17,7 @@
         "workingPercentage": 100,
         "service": 3,
         "avatarUrl": "https://i.pravatar.cc/150?img=2",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "CAR",
@@ -27,7 +27,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=11",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "CAV",
@@ -37,7 +37,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=48",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "CON",
@@ -47,7 +47,7 @@
         "workingPercentage": 100,
         "service": 2,
         "avatarUrl": "https://i.pravatar.cc/150?img=19",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "DELA",
@@ -57,7 +57,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=29",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "DELP",
@@ -67,7 +67,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=55",
-        "jobTitle": "3"
+        "jobTitle": 3
     },
     {
         "visa": "DUC",
@@ -77,7 +77,7 @@
         "workingPercentage": 100,
         "service": 5,
         "avatarUrl": "https://i.pravatar.cc/150?img=9",
-        "jobTitle": "3"
+        "jobTitle": 3
     },
     {
         "visa": "GRA",
@@ -87,7 +87,7 @@
         "workingPercentage": 100,
         "service": 2,
         "avatarUrl": "https://i.pravatar.cc/150?img=70",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "LAU",
@@ -97,7 +97,7 @@
         "workingPercentage": 80,
         "service": 2,
         "avatarUrl": "https://i.pravatar.cc/150?img=68",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "LE C",
@@ -107,7 +107,7 @@
         "workingPercentage": 100,
         "service": 1,
         "avatarUrl": "https://i.pravatar.cc/150?img=5",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "MAR",
@@ -117,7 +117,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=50",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "MAS",
@@ -127,7 +127,7 @@
         "workingPercentage": 30,
         "service": 4,
         "avatarUrl": "https://i.pravatar.cc/150?img=10",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "MUS",
@@ -137,7 +137,7 @@
         "workingPercentage": 100,
         "service": 2,
         "avatarUrl": "https://i.pravatar.cc/150?img=67",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "OGU",
@@ -147,7 +147,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=61",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "OUI",
@@ -157,7 +157,7 @@
         "workingPercentage": 80,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=36",
-        "jobTitle": "1"
+        "jobTitle": 1
     },
     {
         "visa": "PER",
@@ -167,7 +167,7 @@
         "workingPercentage": 100,
         "service": 3,
         "avatarUrl": "https://i.pravatar.cc/150?img=46",
-        "jobTitle": "3"
+        "jobTitle": 3
     },
     {
         "visa": "ROD",
@@ -177,7 +177,7 @@
         "workingPercentage": 100,
         "service": 1,
         "avatarUrl": "https://i.pravatar.cc/150?img=3",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "SAU",
@@ -187,7 +187,7 @@
         "workingPercentage": 100,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=41",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "TRA",
@@ -197,7 +197,7 @@
         "workingPercentage": 100,
         "service": 5,
         "avatarUrl": "https://i.pravatar.cc/150?img=31",
-        "jobTitle": "1"
+        "jobTitle": 1
     },
     {
         "visa": "VAU",
@@ -207,7 +207,7 @@
         "workingPercentage": 100,
         "service": 2,
         "avatarUrl": "https://i.pravatar.cc/150?img=6",
-        "jobTitle": "2"
+        "jobTitle": 2
     },
     {
         "visa": "WET",
@@ -217,7 +217,7 @@
         "workingPercentage": 90,
         "service": 1,
         "avatarUrl": "https://i.pravatar.cc/150?img=45",
-        "jobTitle": "4"
+        "jobTitle": 4
     },
     {
         "visa": "WIR",
@@ -227,6 +227,6 @@
         "workingPercentage": 70,
         "service": 6,
         "avatarUrl": "https://i.pravatar.cc/150?img=22",
-        "jobTitle": "4"
+        "jobTitle": 4
     }
 ]

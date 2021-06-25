@@ -10,7 +10,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=58",
-                "jobTitle": "1"
+                "jobTitle": 1
             },
             "planning": {
                 "29-08-2020": {
@@ -64,7 +64,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=2",
-                "jobTitle": "3"
+                "jobTitle": 3
             },
             "planning": {}
         },
@@ -78,7 +78,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=11",
-                "jobTitle": "3"
+                "jobTitle": 3
             },
             "planning": {
                 "26-08-2020": {
@@ -197,7 +197,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=48",
-                "jobTitle": "4"
+                "jobTitle": 4
             },
             "planning": {
                 "05-09-2020": {
@@ -329,7 +329,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=19",
-                "jobTitle": "3"
+                "jobTitle": 3
             },
             "planning": {
                 "19-09-2020": {
@@ -370,7 +370,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=29",
-                "jobTitle": "4"
+                "jobTitle": 4
             },
             "planning": {
                 "29-08-2020": {
@@ -463,7 +463,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=55",
-                "jobTitle": "1"
+                "jobTitle": 1
             },
             "planning": {
                 "10-09-2020": {
@@ -517,7 +517,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=9",
-                "jobTitle": "1"
+                "jobTitle": 1
             },
             "planning": {
                 "26-08-2020": {
@@ -688,7 +688,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=70",
-                "jobTitle": "1"
+                "jobTitle": 1
             },
             "planning": {
                 "12-09-2020": {
@@ -820,7 +820,7 @@
                 "workingPercentage": 80,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=68",
-                "jobTitle": "4"
+                "jobTitle": 4
             },
             "planning": {
                 "10-09-2020": {
@@ -848,7 +848,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=5",
-                "jobTitle": "4"
+                "jobTitle": 4
             },
             "planning": {
                 "24-08-2020": {
@@ -967,7 +967,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=50",
-                "jobTitle": "1"
+                "jobTitle": 1
             },
             "planning": {}
         },
@@ -981,7 +981,7 @@
                 "workingPercentage": 30,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=10",
-                "jobTitle": "4"
+                "jobTitle": 4
             },
             "planning": {
                 "31-08-2020": {
@@ -1191,7 +1191,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=67",
-                "jobTitle": "2"
+                "jobTitle": 2
             },
             "planning": {
                 "13-09-2020": {
@@ -1310,7 +1310,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=61",
-                "jobTitle": "4"
+                "jobTitle": 4
             },
             "planning": {
                 "24-08-2020": {
@@ -1689,7 +1689,7 @@
                 "workingPercentage": 80,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=36",
-                "jobTitle": "2"
+                "jobTitle": 2
             },
             "planning": {
                 "29-08-2020": {
@@ -1821,7 +1821,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=46",
-                "jobTitle": "3"
+                "jobTitle": 3
             },
             "planning": {
                 "24-08-2020": {
@@ -1979,7 +1979,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=3",
-                "jobTitle": "2"
+                "jobTitle": 2
             },
             "planning": {
                 "12-09-2020": {
@@ -2111,7 +2111,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=41",
-                "jobTitle": "1"
+                "jobTitle": 1
             },
             "planning": {}
         },
@@ -2125,7 +2125,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=31",
-                "jobTitle": "2"
+                "jobTitle": 2
             },
             "planning": {
                 "10-09-2020": {
@@ -2270,7 +2270,7 @@
                 "workingPercentage": 100,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=6",
-                "jobTitle": "2"
+                "jobTitle": 2
             },
             "planning": {
                 "25-08-2020": {
@@ -2311,7 +2311,7 @@
                 "workingPercentage": 90,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=45",
-                "jobTitle": "3"
+                "jobTitle": 3
             },
             "planning": {
                 "27-08-2020": {
@@ -2391,7 +2391,7 @@
                 "workingPercentage": 70,
                 "service": 1,
                 "avatarUrl": "https://i.pravatar.cc/150?img=22",
-                "jobTitle": "3"
+                "jobTitle": 3
             },
             "planning": {}
         }

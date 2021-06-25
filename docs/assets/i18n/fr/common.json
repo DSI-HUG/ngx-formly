@@ -5,6 +5,11 @@
     "reinit": "Réinitialiser",
     "import": "Importer",
     "settings": "Paramètres",
+    "close": "Fermer",
+    "list": {
+        "none": "Aucun",
+        "all": "Tous"
+    },
     "crud": {
         "add": "Ajouter",
         "modify": "Modifier",
